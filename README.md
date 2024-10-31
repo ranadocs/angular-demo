@@ -1,2 +1,6 @@
 # angular-demo
-this is my demo for angular practice by RANA SAJID
+<br>
+<b>
+this is my demo for angular 
+practice by RANA SAJID(angular-demo)
+</b>
